@@ -1,13 +1,13 @@
 body {
     font-family:Arial, Helvetica, sans-serif;
     background-color: azure;
-    color: rgb(97, 97, 98);
+    color: rgb(76, 76, 77);
 }
 
 button {
     background-color: #eef0da;
     font-family: Arial, sans-serif;
     font-size: large;
-    color: rgb(81, 81, 83);
+    color: rgb(76, 76, 77);
     font-style: italic;
 }
